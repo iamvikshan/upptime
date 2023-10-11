@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vikshan.me.ico",
     "slug": "vixshan",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "35.22%",
+    "uptimeDay": "35.22%",
+    "uptimeWeek": "35.22%",
+    "uptimeMonth": "35.22%",
+    "uptimeYear": "35.22%",
     "time": 734,
     "timeDay": 734,
     "timeWeek": 734,
     "timeMonth": 734,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-11": 40,
+      "2023-10-10": 43
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vikshan.me.ico",
     "slug": "mochi",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "35.21%",
+    "uptimeDay": "35.21%",
+    "uptimeWeek": "35.21%",
+    "uptimeMonth": "35.21%",
+    "uptimeYear": "35.21%",
     "time": 89,
     "timeDay": 89,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-11": 40,
+      "2023-10-10": 43
     }
   },
   {
