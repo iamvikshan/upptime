@@ -5,7 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: Vixshan
     url: https://vikshan.me
-  - name: Mochi
+  - name: Mochi Bot
+    check: "tcp-ping"
+    url: 137.184.2.18
+    port: 8080
+  - name: Mochi Dashboard
     url: https://mochi.vikshan.me
   - name: Discord
     url: https://discord.com
