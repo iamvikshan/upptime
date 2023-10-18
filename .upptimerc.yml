@@ -11,6 +11,8 @@ sites:
     port: 8080
   - name: Mochi Dashboard
     url: https://mochi.vikshan.me
+  - name: Mochi Docs
+    url: https://docs.vikshan.me
   - name: Discord
     url: https://discord.com
   - name: YouTube
