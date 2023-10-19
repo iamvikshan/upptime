@@ -13,8 +13,8 @@ sites:
     url: https://mochi.vikshan.me
   - name: Mochi Docs
     url: https://docs.vikshan.me
-  - name: Bot Website
-    url: bot.vikshan.me
+  - name: Mimo
+    url: mimo.vikshan.me
   - name: Server Website
     url: server.vikshan.me
   - name: Discord
