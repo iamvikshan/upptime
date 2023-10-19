@@ -27,7 +27,7 @@
     "slug": "mochi",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "94.79%",
+    "uptimeDay": "94.80%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -108,19 +108,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-website",
     "status": "up",
-    "uptime": "4.77%",
-    "uptimeDay": "4.77%",
-    "uptimeWeek": "4.77%",
-    "uptimeMonth": "4.77%",
-    "uptimeYear": "4.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 214,
     "timeWeek": 214,
     "timeMonth": 214,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2023-10-19": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord",
