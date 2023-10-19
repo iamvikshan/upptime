@@ -16,7 +16,7 @@ sites:
   - name: Bot Website
     url: bot.vikshan.me
   - name: Server Website
-    url: server.vixshan.me
+    url: server.vikshan.me
   - name: Discord
     url: https://discord.com
   - name: YouTube
