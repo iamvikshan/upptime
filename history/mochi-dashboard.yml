@@ -1,7 +1,7 @@
 url: https://mochi.vikshan.me
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2023-10-26T23:16:38.390Z
+status: down
+code: 503
+responseTime: 244
+lastUpdated: 2023-10-27T06:16:46.128Z
 startTime: 2023-10-18T14:38:36.013Z
 generator: Upptime <https://github.com/upptime/upptime>
