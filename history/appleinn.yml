@@ -1,7 +1,7 @@
 url: https://www.youtube.com/watch?v=0WEvHWRQkLA
-status: up
-code: 200
-responseTime: 497
-lastUpdated: 2024-01-15T23:17:58.123Z
+status: down
+code: 429
+responseTime: 339
+lastUpdated: 2024-01-16T12:14:39.098Z
 startTime: 2023-11-23T14:39:52.179Z
 generator: Upptime <https://github.com/upptime/upptime>
