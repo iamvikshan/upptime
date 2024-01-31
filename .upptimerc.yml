@@ -4,11 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Mochi
-    check: "tcp-ping"
-    url: 137.184.2.18
-    port: 8080
-  - name: Mochi Dashboard
-    url: https://mochi.vikshan.me
+    url: https://mochidb-3d5ad3c56585.herokuapp.com
   - name: Mochi Docs
     url: https://docs.vikshan.me
   - name: Mimo
