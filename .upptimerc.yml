@@ -6,13 +6,17 @@ sites:
   - name: Mochi
     url: https://mochidb-3d5ad3c56585.herokuapp.com
   - name: Mochi Docs
-    url: https://docs.vikshan.me
-  - name: Mimo
-    url: mimo.vikshan.me
-  - name: Server Website
-    url: server.vikshan.me
+    url: https://vikshan.gitbook.io/mochi
+  - name: Amina
+    url: https://vixshan.github.io/amina/
+  - name: ViKSHaN Server Website
+    url: https://vixshan-vikshan.vercel.app/
+  - name: Vikshan
+    url: https://vixshan-3739.vercel.app/
   - name: Discord
     url: https://discord.com
+  - name: Dub.sh
+    url: https://dub.sh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
