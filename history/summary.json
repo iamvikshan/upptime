@@ -8,7 +8,7 @@
     "uptime": "85.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "74.33%",
+    "uptimeMonth": "74.50%",
     "uptimeYear": "85.98%",
     "time": 162,
     "timeDay": 421,
@@ -51,19 +51,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vikshan.tech.ico",
     "slug": "vikshan",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 81,
     "timeDay": 95,
     "timeWeek": 83,
     "timeMonth": 81,
     "timeYear": 81,
-    "dailyMinutesDown": {
-      "2024-02-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mochi Docs",
