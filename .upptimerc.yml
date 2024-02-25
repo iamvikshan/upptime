@@ -25,6 +25,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://github.com/vixshan/upptime/blob/master/assets/tmpng.png
   name: Vikshan Status Page
+  customHeadHtml: '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4999609620951427"
+     crossorigin="anonymous"></script>'
   customBodyHtml: |
     <!--Start of Tawk.to Script-->
     <script type='text/javascript'>
