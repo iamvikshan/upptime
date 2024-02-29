@@ -1,3 +1,4 @@
 "ignoredFiles": [
-    "assets/*"
+    "assets/*",
+    "graphs/*"
 ]
