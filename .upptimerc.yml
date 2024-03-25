@@ -3,20 +3,26 @@ owner: vixshan # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Mochi
-    url: https://mochi.vikshan.tech/
   - name: Vikshan
     url: https://vikshan.tech
+  - name: Mochi
+    url: https://mochi.vikshan.tech/
   - name: Mochi Docs
     url: https://docs.vikshan.tech/mochi
   - name: Amina
     url: https://amina.vikshan.tech
+  - name: Short Url Service
+    url: https://go.vikshan.tech
   - name: ViKSHaN Server Website
     url: https://server.vikshan.tech
+  - name: Dub.co slug
+    url: https://l.vikshan.tech/
   - name: Discord
     url: https://discord.com
   - name: Dub.sh
     url: https://dub.sh
+  - name: Short.io
+    url: https://dton.short.gy
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
