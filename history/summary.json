@@ -107,19 +107,19 @@
     "url": "https://go.vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/go.vikshan.tech.ico",
     "slug": "short-url-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 3093,
-    "timeWeek": 1069,
-    "timeMonth": 850,
-    "timeYear": 850,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 792,
+    "timeDay": 2097,
+    "timeWeek": 962,
+    "timeMonth": 792,
+    "timeYear": 792,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 20
     }
   },
   {
@@ -203,19 +203,19 @@
     "url": "https://dton.short.gy",
     "icon": "https://icons.duckduckgo.com/ip3/dton.short.gy.ico",
     "slug": "short-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 2752,
-    "timeWeek": 906,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 665,
+    "timeDay": 1893,
+    "timeWeek": 825,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 20
     }
   }
 ]
