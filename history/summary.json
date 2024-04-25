@@ -13,7 +13,7 @@
     "time": 130,
     "timeDay": 128,
     "timeWeek": 140,
-    "timeMonth": 156,
+    "timeMonth": 147,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mochi.vikshan.tech.ico",
     "slug": "mochi",
     "status": "up",
-    "uptime": "90.71%",
+    "uptime": "90.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.71%",
+    "uptimeYear": "90.75%",
     "time": 301,
     "timeDay": 404,
     "timeWeek": 1885,
-    "timeMonth": 815,
+    "timeMonth": 827,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2024-04-20": 16,
@@ -78,7 +78,7 @@
     "time": 804,
     "timeDay": 211,
     "timeWeek": 781,
-    "timeMonth": 574,
+    "timeMonth": 586,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2024-02-19": 19,
@@ -99,7 +99,7 @@
     "time": 113,
     "timeDay": 200,
     "timeWeek": 106,
-    "timeMonth": 121,
+    "timeMonth": 123,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -117,7 +117,7 @@
     "time": 585,
     "timeDay": 90,
     "timeWeek": 185,
-    "timeMonth": 585,
+    "timeMonth": 589,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2024-04-20": 16,
@@ -138,7 +138,7 @@
     "time": 112,
     "timeDay": 110,
     "timeWeek": 125,
-    "timeMonth": 111,
+    "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -156,7 +156,7 @@
     "time": 265,
     "timeDay": 177,
     "timeWeek": 284,
-    "timeMonth": 265,
+    "timeMonth": 263,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -194,7 +194,7 @@
     "time": 471,
     "timeDay": 383,
     "timeWeek": 522,
-    "timeMonth": 396,
+    "timeMonth": 397,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2024-02-13": 25
@@ -205,18 +205,19 @@
     "url": "https://dton.short.gy",
     "icon": "https://icons.duckduckgo.com/ip3/dton.short.gy.ico",
     "slug": "short-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 684,
     "timeDay": 235,
     "timeWeek": 319,
-    "timeMonth": 684,
+    "timeMonth": 697,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2024-04-25": 0,
       "2024-04-06": 47,
       "2024-04-04": 20
     }
