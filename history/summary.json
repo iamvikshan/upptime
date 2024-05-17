@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mochi.vikshan.tech.ico",
     "slug": "mochi",
     "status": "up",
-    "uptime": "91.68%",
+    "uptime": "91.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "91.68%",
+    "uptimeYear": "91.69%",
     "time": 309,
     "timeDay": 730,
     "timeWeek": 381,
@@ -109,9 +109,9 @@
     "url": "https://go.vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/go.vikshan.tech.ico",
     "slug": "short-url-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
@@ -121,6 +121,7 @@
     "timeMonth": 337,
     "timeYear": 514,
     "dailyMinutesDown": {
+      "2024-05-17": 0,
       "2024-04-20": 16,
       "2024-04-04": 20
     }
