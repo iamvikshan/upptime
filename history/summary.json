@@ -6,18 +6,16 @@
     "slug": "vikshan",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 125,
     "timeWeek": 138,
     "timeMonth": 133,
     "timeYear": 132,
-    "dailyMinutesDown": {
-      "2024-09-12": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mochi",
@@ -26,9 +24,9 @@
     "slug": "mochi",
     "status": "up",
     "uptime": "94.66%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "94.66%",
     "time": 352,
     "timeDay": 344,
@@ -36,7 +34,6 @@
     "timeMonth": 421,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-09-12": 12,
       "2024-07-20": 22,
       "2024-04-20": 16,
       "2024-02-17": 51,
@@ -75,9 +72,9 @@
     "slug": "mochi-docs",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 760,
     "timeDay": 257,
@@ -85,7 +82,6 @@
     "timeMonth": 231,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2024-09-12": 12,
       "2024-05-06": 148,
       "2024-02-19": 19,
       "2023-10-18": 11
@@ -96,19 +92,19 @@
     "url": "https://amina.vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/amina.vikshan.tech.ico",
     "slug": "amina",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 94,
-    "timeWeek": 131,
-    "timeMonth": 127,
+    "timeDay": 96,
+    "timeWeek": 127,
+    "timeMonth": 126,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-09-12": 12
+      "2024-09-12": 46
     }
   },
   {
@@ -117,18 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.vikshan.tech.ico",
     "slug": "short-url-service",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 426,
     "timeDay": 286,
     "timeWeek": 305,
     "timeMonth": 375,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-09-12": 11,
       "2024-05-17": 19,
       "2024-04-20": 16,
       "2024-04-04": 20
@@ -141,18 +136,16 @@
     "slug": "vi-ks-ha-n-server-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 117,
     "timeWeek": 130,
     "timeMonth": 121,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2024-09-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dub.co slug",
@@ -161,18 +154,16 @@
     "slug": "dub-co-slug",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
     "timeDay": 208,
     "timeWeek": 303,
     "timeMonth": 297,
     "timeYear": 298,
-    "dailyMinutesDown": {
-      "2024-09-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord",
@@ -221,9 +212,9 @@
     "slug": "short-io",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 389,
     "timeDay": 219,
@@ -231,7 +222,6 @@
     "timeMonth": 274,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-09-12": 10,
       "2024-04-26": 24,
       "2024-04-06": 47,
       "2024-04-04": 20
