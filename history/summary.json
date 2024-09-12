@@ -4,29 +4,31 @@
     "url": "https://vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/vikshan.tech.ico",
     "slug": "vikshan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 151,
     "timeWeek": 144,
     "timeMonth": 134,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 4
+    }
   },
   {
     "name": "Mochi",
     "url": "https://mochi.vikshan.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/mochi.vikshan.tech.ico",
     "slug": "mochi",
-    "status": "up",
+    "status": "down",
     "uptime": "94.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "94.66%",
     "time": 353,
     "timeDay": 415,
@@ -34,6 +36,7 @@
     "timeMonth": 426,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2024-09-12": 3,
       "2024-07-20": 22,
       "2024-04-20": 16,
       "2024-02-17": 51,
@@ -70,11 +73,11 @@
     "url": "https://docs.vikshan.tech/mochi",
     "icon": "https://icons.duckduckgo.com/ip3/docs.vikshan.tech.ico",
     "slug": "mochi-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 761,
     "timeDay": 231,
@@ -82,6 +85,7 @@
     "timeMonth": 229,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2024-09-12": 3,
       "2024-05-06": 148,
       "2024-02-19": 19,
       "2023-10-18": 11
@@ -92,28 +96,30 @@
     "url": "https://amina.vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/amina.vikshan.tech.ico",
     "slug": "amina",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 94,
     "timeWeek": 131,
     "timeMonth": 127,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 2
+    }
   },
   {
     "name": "Short Url Service",
     "url": "https://go.vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/go.vikshan.tech.ico",
     "slug": "short-url-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 427,
@@ -122,6 +128,7 @@
     "timeMonth": 383,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2024-09-12": 2,
       "2024-05-17": 19,
       "2024-04-20": 16,
       "2024-04-04": 20
@@ -132,10 +139,10 @@
     "url": "https://server.vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/server.vikshan.tech.ico",
     "slug": "vi-ks-ha-n-server-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
@@ -143,17 +150,19 @@
     "timeWeek": 133,
     "timeMonth": 121,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 1
+    }
   },
   {
     "name": "Dub.co slug",
     "url": "https://l.vikshan.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/l.vikshan.tech.ico",
     "slug": "dub-co-slug",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
@@ -161,7 +170,9 @@
     "timeWeek": 311,
     "timeMonth": 299,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 1
+    }
   },
   {
     "name": "Discord",
@@ -208,9 +219,9 @@
     "url": "https://dton.short.gy",
     "icon": "https://icons.duckduckgo.com/ip3/dton.short.gy.ico",
     "slug": "short-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -220,6 +231,7 @@
     "timeMonth": 275,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2024-09-12": 0,
       "2024-04-26": 24,
       "2024-04-06": 47,
       "2024-04-04": 20
