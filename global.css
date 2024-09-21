@@ -41,7 +41,7 @@ a {
 article {
   padding: 1rem 1.25rem;
   position: relative;
-  border-radius: 0.2rem;
+  border-radius: 1rem; /* Increased border-radius for rounded corners */
   border: 1px solid;
 }
 article.link a::after {
@@ -88,7 +88,7 @@ section + h2 {
 .tag {
   display: inline-block;
   padding: 0.33rem 0.5rem;
-  border-radius: 0.2rem;
+  border-radius: 1rem; /* Increased border-radius for rounded corners */
   font-size: 70%;
   vertical-align: middle;
   margin-top: -0.2rem;
