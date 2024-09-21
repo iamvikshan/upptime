@@ -47,7 +47,7 @@ status-website:
     })();
     </script>
     <!--End of Tawk.to Script-->
-  introTitle: "**Vikshan Status Page** is an open-source uptime monitor and status page, powered entirely by GitHub."
+ # introTitle: "**Vikshan Status Page** is an open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is page uses **real-time** data from our [GitHub repository](https://github.com/vixshan/upptime).
   navbar:
     - title: Status
