@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 123,
-    "timeWeek": 105,
+    "timeDay": 92,
+    "timeWeek": 103,
     "timeMonth": 125,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -41,21 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.vikshan.tech.ico",
     "slug": "short-url-service",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 398,
-    "timeDay": 417,
-    "timeWeek": 411,
-    "timeMonth": 343,
+    "timeDay": 408,
+    "timeWeek": 379,
+    "timeMonth": 346,
     "timeYear": 398,
-    "dailyMinutesDown": {
-      "2024-05-17": 19,
-      "2024-04-20": 16,
-      "2024-04-04": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ViKSHaN Server Website",
@@ -69,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 155,
-    "timeWeek": 111,
+    "timeDay": 148,
+    "timeWeek": 113,
     "timeMonth": 115,
     "timeYear": 121,
     "dailyMinutesDown": {}
@@ -87,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 269,
-    "timeWeek": 349,
-    "timeMonth": 487,
+    "timeDay": 314,
+    "timeWeek": 360,
+    "timeMonth": 490,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -99,14 +95,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 94,
-    "timeWeek": 102,
+    "timeDay": 100,
+    "timeWeek": 103,
     "timeMonth": 93,
     "timeYear": 66,
     "dailyMinutesDown": {}
@@ -117,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dub.sh.ico",
     "slug": "dub-sh",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 500,
-    "timeDay": 799,
-    "timeWeek": 724,
-    "timeMonth": 824,
-    "timeYear": 500,
-    "dailyMinutesDown": {
-      "2024-02-13": 25
-    }
+    "uptimeYear": "100.00%",
+    "time": 501,
+    "timeDay": 800,
+    "timeWeek": 713,
+    "timeMonth": 833,
+    "timeYear": 501,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Short.io",
@@ -137,20 +131,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dton.short.gy.ico",
     "slug": "short-io",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 366,
-    "timeDay": 325,
-    "timeWeek": 298,
+    "uptimeYear": "100.00%",
+    "time": 365,
+    "timeDay": 259,
+    "timeWeek": 291,
     "timeMonth": 319,
-    "timeYear": 366,
-    "dailyMinutesDown": {
-      "2024-04-26": 24,
-      "2024-04-06": 47,
-      "2024-04-04": 20
-    }
+    "timeYear": 365,
+    "dailyMinutesDown": {}
   }
 ]
