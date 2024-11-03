@@ -22,18 +22,20 @@
     "url": "https://mina.vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/mina.vikshan.tech.ico",
     "slug": "amina-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 263,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 230,
+    "timeDay": 204,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
+    "dailyMinutesDown": {
+      "2024-11-03": 0
+    }
   },
   {
     "name": "Short Url Service",
