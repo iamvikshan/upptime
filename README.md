@@ -32,3 +32,5 @@ We use [Issues](https://github.com/vixshan/upptime/issues) as incident reports, 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Vikshan](ko-fi.com/vixshan)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+![Alt](https://repobeats.axiom.co/api/embed/39f0bb1656cd1803912a4d5d72eb2b2b50e2d6c6.svg "Repobeats analytics image")
