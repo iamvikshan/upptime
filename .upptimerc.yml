@@ -7,6 +7,10 @@ sites:
     url: https://vikshan.tech
   - name: Amina Website
     url: https://mina.vikshan.tech
+  - name: utopia
+    check: "tcp-ping"
+    url: utopia.pylex.xyz
+    port: 10957
   - name: Short Url Service
     url: https://go.vikshan.tech
   - name: ViKSHaN Server Website
