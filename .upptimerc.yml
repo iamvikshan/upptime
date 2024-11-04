@@ -17,12 +17,6 @@ sites:
     url: https://server.vikshan.tech
   - name: Dub.co slug
     url: https://l.vikshan.tech/
-  - name: Discord
-    url: https://discord.com
-  - name: Dub.sh
-    url: https://dub.sh
-  - name: Short.io
-    url: https://dton.short.gy
 
 status-website:
 # theme
