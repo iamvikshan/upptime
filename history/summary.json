@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mina.vikshan.tech.ico",
     "slug": "amina-website",
     "status": "up",
-    "uptime": "93.21%",
+    "uptime": "93.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.21%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "93.21%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "93.70%",
     "time": 230,
     "timeDay": 336,
     "timeWeek": 230,
@@ -43,9 +43,9 @@
     "url": "utopia.pylex.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "utopia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 178,
     "timeMonth": 178,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-08": 0
+    }
   },
   {
     "name": "Short Url Service",
