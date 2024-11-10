@@ -24,8 +24,8 @@
     "slug": "amina-website",
     "status": "down",
     "uptime": "95.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "93.94%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "93.93%",
     "uptimeMonth": "95.29%",
     "uptimeYear": "95.29%",
     "time": 234,
@@ -34,7 +34,7 @@
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-11-10": 0,
+      "2024-11-10": 1,
       "2024-11-04": 611,
       "2024-11-03": 23
     }
