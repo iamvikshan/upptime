@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Vikshan
     url: https://vikshan.tech
-  - name: Amina Website
-    url: https://mina.vikshan.tech
+  - name: Amina Docs
+    url: https://docs.vikshan.tech
   - name: utopia
     check: "tcp-ping"
     url: utopia.pylex.xyz
