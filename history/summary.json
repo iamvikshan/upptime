@@ -4,19 +4,19 @@
     "url": "https://vikshan.tech",
     "icon": "https://icons.duckduckgo.com/ip3/vikshan.tech.ico",
     "slug": "vikshan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.92%",
-    "time": 213,
-    "timeDay": 2407,
-    "timeWeek": 1285,
-    "timeMonth": 837,
-    "timeYear": 221,
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 219,
+    "timeDay": 2411,
+    "timeWeek": 1367,
+    "timeMonth": 879,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-02-20": 0,
+      "2025-02-20": 9,
       "2025-02-19": 32,
       "2024-12-28": 408
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.vikshan.tech.ico",
     "slug": "amina-docs",
     "status": "down",
-    "uptime": "98.69%",
+    "uptime": "98.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "98.69%",
+    "uptimeWeek": "82.25%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "98.68%",
     "time": 201,
     "timeDay": 0,
     "timeWeek": 156,
     "timeMonth": 147,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-02-20": 443,
+      "2025-02-20": 452,
       "2025-02-19": 1338
     }
   },
@@ -51,7 +51,7 @@
     "uptime": "74.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.65%",
-    "uptimeMonth": "72.59%",
+    "uptimeMonth": "72.61%",
     "uptimeYear": "74.06%",
     "time": 194,
     "timeDay": 173,
@@ -104,8 +104,8 @@
     "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "95.94%",
+    "uptimeWeek": "82.25%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "99.63%",
     "time": 385,
     "timeDay": 0,
@@ -113,7 +113,7 @@
     "timeMonth": 367,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-02-20": 443,
+      "2025-02-20": 452,
       "2025-02-19": 1338
     }
   },
@@ -125,8 +125,8 @@
     "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "95.94%",
+    "uptimeWeek": "82.25%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "99.66%",
     "time": 120,
     "timeDay": 0,
@@ -134,7 +134,7 @@
     "timeMonth": 137,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-02-20": 443,
+      "2025-02-20": 452,
       "2025-02-19": 1338
     }
   },
@@ -146,8 +146,8 @@
     "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "95.94%",
+    "uptimeWeek": "82.25%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "99.63%",
     "time": 390,
     "timeDay": 0,
@@ -155,7 +155,7 @@
     "timeMonth": 645,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-02-20": 443,
+      "2025-02-20": 452,
       "2025-02-19": 1337
     }
   }
