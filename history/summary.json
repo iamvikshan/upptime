@@ -94,12 +94,12 @@
     "url": "utopia.pylex.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "utopia",
-    "status": "up",
-    "uptime": "95.21%",
-    "uptimeDay": "16.59%",
-    "uptimeWeek": "10.33%",
-    "uptimeMonth": "49.11%",
-    "uptimeYear": "95.21%",
+    "status": "down",
+    "uptime": "95.23%",
+    "uptimeDay": "17.52%",
+    "uptimeWeek": "10.46%",
+    "uptimeMonth": "49.36%",
+    "uptimeYear": "95.23%",
     "time": 142,
     "timeDay": 13,
     "timeWeek": 9,
@@ -123,7 +123,7 @@
       "2025-09-09": 1338,
       "2025-09-08": 1266,
       "2025-09-07": 1310,
-      "2025-09-06": 974
+      "2025-09-06": 862
     }
   },
   {
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2025-09-23": 406,
+      "2025-09-23": 419,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
