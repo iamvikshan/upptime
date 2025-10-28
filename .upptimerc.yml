@@ -1,7 +1,7 @@
 # @format
 
 # Change these first
-owner: vixshan # Your GitHub organization or username, where this repository lives
+owner: iamvikshan # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -17,8 +17,8 @@ sites:
     url: https://go.vikshan.me
   - name: ViKSHaN Server Website
     url: https://server.vikshan.me
-  - name: Dub.co slug
-    url: https://l.vikshan.me/
+  - name: Vix Pix
+    url: https://pixels.vikshan.me/
 
 status-website:
   # theme
@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vikshan.me
   # baseUrl: /upptime
-  logoUrl: https://github.com/vixshan/upptime/blob/master/assets/tmpng.png
+  logoUrl: https://github.com/iamvikshan/upptime/blob/master/assets/tmpng.png
   name: Vikshan Status Page
   customHeadHtml:
     '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4999609620951427"
@@ -47,11 +47,11 @@ status-website:
     </script>
     <!--End of Tawk.to Script-->
   # introTitle: "**Vikshan Status Page** is an open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is page uses **real-time** data from our [GitHub repository](https://github.com/vixshan/upptime).
+  # introMessage: This is page uses **real-time** data from our [GitHub repository](https://github.com/iamvikshan/upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/vixshan/upptime
+      href: https://github.com/iamvikshan/upptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
