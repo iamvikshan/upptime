@@ -9,16 +9,21 @@ sites:
     url: https://vikshan.me
   - name: Amina Docs
     url: https://docs.vikshan.me
-  - name: utopia
+  - name: Vix Pix
+    url: https://pixels.vikshan.me/
+  - name: Lavalink - Wispbyte1
     check: 'tcp-ping'
-    url: utopia.pylex.xyz
+    url: 87.106.62.92
     port: 10957
+  - name: Lavalink - Wispbyte2
+    check: 'tcp-ping'
+    url: 217.160.125.126
+    port: 14316
   - name: Short Url Service
     url: https://go.vikshan.me
   - name: ViKSHaN Server Website
     url: https://server.vikshan.me
-  - name: Vix Pix
-    url: https://pixels.vikshan.me/
+
 
 status-website:
   # theme
@@ -53,5 +58,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/iamvikshan/upptime
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
