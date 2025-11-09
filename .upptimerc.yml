@@ -7,6 +7,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Vikshan
     url: https://vikshan.me
+  - name: Amina Dash
+    url: https://dash.vikshan.me
   - name: Amina Docs
     url: https://docs.vikshan.me
   - name: Vix Pix
