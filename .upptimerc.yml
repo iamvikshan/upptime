@@ -21,6 +21,8 @@ sites:
     check: 'tcp-ping'
     url: 217.160.125.126
     port: 14316
+  - name: Uptime Kuma
+    url: https://status.vikshan.me
   - name: Short Url Service
     url: https://go.vikshan.me
   - name: ViKSHaN Server Website
@@ -32,7 +34,7 @@ status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.vikshan.me
+  cname: up.vikshan.me
   # baseUrl: /upptime
   logoUrl: https://github.com/iamvikshan/upptime/blob/master/assets/tmpng.png
   name: Vikshan Status Page
