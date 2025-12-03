@@ -8,7 +8,7 @@ sites:
   - name: Vikshan
     url: https://vikshan.me
   - name: Amina Dash
-    url: https://dash.vikshan.me
+    url: https://4mina.app
   - name: Amina Docs
     url: https://docs.vikshan.me
   - name: Vix Pix
@@ -25,9 +25,6 @@ sites:
     url: https://status.vikshan.me
   - name: Short Url Service
     url: https://go.vikshan.me
-  - name: ViKSHaN Server Website
-    url: https://server.vikshan.me
-
 
 status-website:
   # theme
