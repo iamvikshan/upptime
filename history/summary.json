@@ -14,7 +14,7 @@
     "timeDay": 178,
     "timeWeek": 197,
     "timeMonth": 428,
-    "timeYear": 497,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2025-11-18": 136,
       "2025-03-17": 262,
@@ -66,19 +66,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mina.instatus.com.ico",
     "slug": "instatus-status-page",
     "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 449,
     "timeDay": 449,
     "timeWeek": 449,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {
-      "2025-12-09": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Short Url Service",
