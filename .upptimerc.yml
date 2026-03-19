@@ -54,3 +54,8 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+commitMessages:
+  commitAuthorName: "vikshan"
+  commitAuthorEmail: "103361575+iamvikshan@users.noreply.github.com"
+user-agent: iamvikshan
