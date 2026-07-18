@@ -4,16 +4,16 @@
     "url": "https://iamvikshan.github.io/iamvikshan",
     "icon": "https://icons.duckduckgo.com/ip3/iamvikshan.github.io.ico",
     "slug": "vikshan",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.06%",
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.05%",
     "time": 296,
-    "timeDay": 7724,
-    "timeWeek": 2036,
-    "timeMonth": 681,
+    "timeDay": 5225,
+    "timeWeek": 1835,
+    "timeMonth": 667,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2025-11-18": 136,
@@ -25,7 +25,7 @@
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1159,
-      "2026-07-18": 0
+      "2026-07-18": 46
     }
   },
   {
@@ -86,7 +86,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.4mina.app.ico",
     "slug": "short-url-service",
     "status": "down",
-    "uptime": "82.44%",
+    "uptime": "82.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -99,7 +99,7 @@
     "dailyMinutesDown": {
       "2025-10-20": 104,
       "2025-11-26": 15,
-      "2026-07-18": 1188,
+      "2026-07-18": 1234,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
